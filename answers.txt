@@ -7,3 +7,11 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 Answer: Data science can be applied to healthcare, for example, by analyzing patient data to predict disease outbreaks or personalize treatment plans. By leveraging machine learning algorithms, hospitals can identify patterns in patient symptoms and histories, allowing for earlier diagnosis and more effective interventions.
  
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines changes from difference branches into one while rebasing rewrites commits from one 
+branch on top of another.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: Skills I hope to improve during this course is just my overall knowledge of data science, NLP, and machine learning. 
